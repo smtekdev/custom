@@ -1,0 +1,288 @@
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://ui8-folio.herokuapp.com/
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\index.htm
+Content Type: text/html
+
+Uri: https://ui8-folio.herokuapp.com/case.html
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\case.html
+Content Type: text/html
+
+Uri: https://ui8-folio.herokuapp.com/css/app.min.css
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\css\app.min.css
+Content Type: text/css
+
+Uri: https://ui8-folio.herokuapp.com/img/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/arrow-up-right.svg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\arrow-up-right.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-folio.herokuapp.com/img/content/ava-1.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\ava-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/bg-discover.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\bg-discover.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/bg-footer.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\bg-footer.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/bg-header-mobile.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\bg-header-mobile.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/bg-header.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\bg-header.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/bg-main.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\bg-main.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/cases-pic-1.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\cases-pic-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/cases-pic-2.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\cases-pic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/cases-pic-3.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\cases-pic-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/cases-pic-4.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\cases-pic-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/cases-pic-5.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\cases-pic-5.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/cases-pic-6.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\cases-pic-6.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/cases-pic-7.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\cases-pic-7.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/color-picker.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\color-picker.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/cursor.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\cursor.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/desc-pic-1.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\desc-pic-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/desc-pic-2.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\desc-pic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/desc-pic-3.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\desc-pic-3.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/desc-pic-4.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\desc-pic-4.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/figure-1.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\figure-1.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/figure-2.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\figure-2.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/figure-3.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\figure-3.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/figures-1.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\figures-1.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/figures-2.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\figures-2.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/figures-3.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\figures-3.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/figures-4.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\figures-4.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/figures-5.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\figures-5.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/figures-6.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\figures-6.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/footer-cube-1.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\footer-cube-1.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/hand.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\hand.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/main-pic-1.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\main-pic-1.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/main-pic-2.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\main-pic-2.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/main-pic-3.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\main-pic-3.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/main-pic-4.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\main-pic-4.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/main-pic-5.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\main-pic-5.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/main-pic-6.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\main-pic-6.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/main-pic-7.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\main-pic-7.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/product-pic-1.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\product-pic-1.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/product-pic-2.jpg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\product-pic-2.jpg
+Content Type: image/jpeg
+
+Uri: https://ui8-folio.herokuapp.com/img/content/review-cube.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\review-cube.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/work-cube-1.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\work-cube-1.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/work-cube-2.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\work-cube-2.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/work-cube-3.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\work-cube-3.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/work-cube-4.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\work-cube-4.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/work-cube-5.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\work-cube-5.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/work-cube-6.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\work-cube-6.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/work-cube-7.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\work-cube-7.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/content/work-cube.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\content\work-cube.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://ui8-folio.herokuapp.com/img/logo-empty.svg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\logo-empty.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-folio.herokuapp.com/img/logo-white.svg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-folio.herokuapp.com/img/logo.svg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-folio.herokuapp.com/img/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-folio.herokuapp.com/img/scroll.svg
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\scroll.svg
+Content Type: image/svg+xml
+
+Uri: https://ui8-folio.herokuapp.com/img/site.webmanifest
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\img\site.webmanifest
+Content Type: application/manifest+json
+
+Uri: https://ui8-folio.herokuapp.com/index.html
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\index.html
+Content Type: text/html
+
+Uri: https://ui8-folio.herokuapp.com/js/app.js
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\js\app.js
+Content Type: application/javascript
+
+Uri: https://ui8-folio.herokuapp.com/js/lib/aos.js
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\js\lib\aos.js
+Content Type: application/javascript
+
+Uri: https://ui8-folio.herokuapp.com/js/lib/jquery.min.js
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\js\lib\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ui8-folio.herokuapp.com/js/lib/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\js\lib\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://ui8-folio.herokuapp.com/js/lib/simpleParallax.min.js
+File Name: C:\Downloaded Web Sites\ui8-folio.herokuapp.com\js\lib\simpleParallax.min.js
+Content Type: application/javascript
+
